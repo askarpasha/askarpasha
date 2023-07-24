@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @askarpasha
 - 👀 I’m interested in Laravel, Magento, Wordpress and Flutter
-- 🌱 I’m currently doing a project in Magento
+- 🌱 Always Learning, Always Evolving !
 - 📫 Contact me on askarpasha@outlook.com
 
