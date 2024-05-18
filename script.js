@@ -98,7 +98,7 @@ const preload = () => {
   
           this.data = {
   
-              text: 'Redefining Tomorrow\nwith Qmorrow ...',
+              text: 'Lei Architects\nArchitecture and Interior Design ...',
               amount: 1000,
               particleSize: .5,
               particleColor: 0xffffff,
