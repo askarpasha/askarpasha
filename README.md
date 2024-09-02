@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @askarpasha
-- 🌱 Always Learning, Always Evolving !
-- 📫 Contact me on askarpasha@outlook.com
-
 <h1 align="center">Hi 👋, I'm Askar Pasha</h1>
 <h3 align="center">Full Stack Developer & DevOps Specialist</h3>
 
